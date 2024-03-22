@@ -1,2 +1,3 @@
 # Python-Projects
 Hey I'm a beginner and these are some of my projects that I've made , some them are inspired as well ...
+I've tried to keep these as simple and efficient as I could 
